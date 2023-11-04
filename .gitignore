@@ -1,0 +1,8 @@
+
+*.ipynb
+*.xml
+*.iml
+*.pyc
+albert
+virt_env
+.env
